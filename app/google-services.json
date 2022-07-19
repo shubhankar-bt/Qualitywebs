@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "83774740457",
+    "project_id": "quality-webs-8ca72",
+    "storage_bucket": "quality-webs-8ca72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83774740457:android:4b3b4d58b8fcc55cc9dd78",
+        "android_client_info": {
+          "package_name": "com.shubhankaranku.qualitywebs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83774740457-q17olqfkj2qb5m3lka62imlf4p2bmufq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.shubhankaranku.qualitywebs",
+            "certificate_hash": "17478344ed486bf20efb818b0cf7b364aafdc3fb"
+          }
+        },
+        {
+          "client_id": "83774740457-34q2a6j6p7f2172n4tkq8osa4bmic359.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOoyuBrCfnq73AglRYADPuYG5MgMAutAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83774740457-34q2a6j6p7f2172n4tkq8osa4bmic359.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
